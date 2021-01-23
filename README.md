@@ -9,4 +9,4 @@ https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
 
 + [Title example](https://handsondataviz.github.io/leaflet-map-simple/)
 
-+[ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
++ [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
