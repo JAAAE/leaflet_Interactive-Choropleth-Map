@@ -1,6 +1,6 @@
 # leaflet_Interactive-Choropleth-Map
 
-<p style="color:red;">I am red</p>
+<font color=#FF0000>紅色</font>	
 
 ## Demo:
 https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
