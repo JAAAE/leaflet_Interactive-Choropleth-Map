@@ -1,6 +1,6 @@
 # leaflet_Interactive-Choropleth-Map
 
-<p1> 案例：台灣縣市2020人口密度</p1>
+<h1> 案例：台灣縣市2020人口密度</h1>
 
 ## Demo:
 https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
