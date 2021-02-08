@@ -2,6 +2,8 @@
 
 <h3>案例:2020年臺灣縣市人口密度</h3>
 
+<br>
+
 ## Demo:
 https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
 
