@@ -1,6 +1,6 @@
 # leaflet_Interactive-Choropleth-Map
 
-<h3 style="color:red">I am red</h3>
+<p style="color:red;">I am red</p>
 
 ## Demo:
 https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
