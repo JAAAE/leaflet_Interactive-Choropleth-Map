@@ -62,7 +62,7 @@
         #map-title { 
             position: absolute; 
             margin-top: 10px; 
-            margin-left: 50px; 
+            margin-left: 45px; 
             float: left; 
             background:  white;
             border: 2px solid rgba(0,0,0,0.2); 
@@ -77,7 +77,7 @@
     </style>
 </head>
 <body>
-<div id="map-title">臺灣2020年人口密度</div>    
+<div id="map-title">臺灣2020年<br>人口密度（縣市）</div>    
 <div id="mapid"></div>
 
 <script type="text/javascript" src="taiwan_json.js"></script> <!--add geoJson -->
@@ -88,9 +88,9 @@
 
 	L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 		maxZoom: 18,
-		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> , <a href="https://www.mapbox.com/">Mapbox</a> , ' +
-		'ICON © <a href="https://www.flaticon.com/authors/turkkub">flaticon</a> ',
-		id: 'mapbox/streets-v11',
+		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> , <a href="https://www.mapbox.com/">Mapbox</a> ' 
+		,
+        id: 'mapbox/streets-v11',
 		tileSize: 512,
 		zoomOffset: -1
     }).addTo(mymap);
