@@ -5,7 +5,7 @@
 
 
 ### Demo:
-https://jaaae.github.io/leaflet_Interactive-Choropleth-Map/.
+https://jaaae.github.io/leaflet_Interactive_Choropleth-Map/.
 
 ### Reference:
 
