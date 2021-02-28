@@ -11,6 +11,6 @@ https://jaaae.github.io/leaflet_Interactive_Choropleth_Map/.
 
 + [Leaflet_Interactive Choropleth Map](https://leafletjs.com/examples/choropleth/)
 
-+ [Title example](http://geosupportsystem.altervista.org/mystorymap/storymap.html/)
++ [Title example](https://handsondataviz.github.io/leaflet-map-simple/)
 
 + [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
